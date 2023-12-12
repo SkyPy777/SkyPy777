@@ -9,8 +9,7 @@
   
 - 🔧 Skills:
    - Python
-   - HTML
-   - CSS
+    
         
 - 📫 How to reach me ... Email [ subhashkumary173@gmail.com ]
                           Linkedin [https://www.linkedin.com/in/subhash-kumar-yadav-264917213/]
