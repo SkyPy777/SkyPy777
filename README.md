@@ -1,21 +1,14 @@
-- 👋 Hi, I’m @SkyPy777...Subhash Kumar Yadav, a recent BCA graduate (October 2022) with an overall CGPA of 8.85.
-  
-- 👀 I’m interested in ...I’m a beginner eager to learn and explore the possibilities that Python offers. Currently, my journey involves understanding the fundamentals, experimenting with small projects, and 
-      gradually building a solid foundation.
-  
-- 🌱 I’m currently learning ...I’m currently diving deep into the world of Python, exploring its details and pushing my coding boundaries.
-  
-- 💞️ I’m looking to collaborate on ...I’m always open to collaboration on projects that involve Python. Let's combine our skills and build something amazing together.
-  
-- 🔧 Skills:
-   - Python
-    
-        
-- 📫 How to reach me ... Email [ subhashkumary173@gmail.com ]
-                          Linkedin [https://www.linkedin.com/in/subhash-kumar-yadav-264917213/]
+- <h1 align="center">Hi 👋, I'm Subhash Kumar Yadav</h1>
+<h3 align="center">Passionate about Web Development from India</h3>
 
- I am Excited about the journey ahead, and open to new opportunities and collaborations! Let’s connect and create some code magic! 🚀✨
+- 🌱 I’m currently learning **Python**
 
+- 📫 How to reach me **subhashkumary173@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/subhash kumar yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhash kumar yadav" height="30" width="40" /></a>
+</p>
 
- 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
